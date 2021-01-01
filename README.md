@@ -26,8 +26,8 @@
 
 <h4>💡 Contato:</h4>
 
-<a href="https://www.linkedin.com/in/anabeatrizdsm/">🔗 Linkedin</a><br>
+<a href="https://www.linkedin.com/in/anabeatrizdsm/" target="_blank">🔗 Linkedin</a><br>
 
-<a href="https://www.instagram.com/anabeatrizdsm_/">🔗 Instagram</a><br>
+<a href="https://www.instagram.com/anabeatrizdsm_/" target="_blank">🔗 Instagram</a><br>
 
 <span>📧 anabeatrizdsmorais@gmail.com</span>
