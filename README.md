@@ -22,7 +22,7 @@
 
 <hr>
 
-<h4>📞 Contato:</h4>
+<h4>💡 Contato:</h4>
 
-<a href="https://www.linkedin.com/in/anabeatrizdsm/">🔗 Linkedin</a>
+<a href="https://www.linkedin.com/in/anabeatrizdsm/">🔗 Linkedin</a><br>
 <strong>📧 Email: anabeatrizdsmorais@gmail.com</strong>
