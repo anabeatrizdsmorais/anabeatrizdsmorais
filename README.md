@@ -3,7 +3,7 @@
 <p>Sou estudante de Desenvolvimento Front End, pretendo ser uma Desenvolvedora Full Stack e estou estudando para isso. 
   Atualmente sou estagiária de TI na prefeitura da minha cidade, faço Técnico de Informática e 
   já fiz Ciência da Computação, mas não terminei por alguns motivos. 
-  Onde eu trabalho atualmente, participo de um projeto para área da saúde em que faço a parte do Front End e estou utilizando (aprendendo) também a linguagem PHP. 
+  Onde eu trabalho atualmente, participo de um projeto para área da saúde em que faço a parte do Front End e que utilizo as linguagens PHP (aprendendo a utilizar no projeto), JavaScript, HTML, CSS, Boostrap.
 </p>
 
 <h4>💻 Habilidades:</h4>
@@ -27,4 +27,4 @@
 <h4>💡 Contato:</h4>
 
 <a href="https://www.linkedin.com/in/anabeatrizdsm/">🔗 Linkedin</a><br>
-<strong>📧 anabeatrizdsmorais@gmail.com</strong>
+<span>📧 anabeatrizdsmorais@gmail.com</span>
