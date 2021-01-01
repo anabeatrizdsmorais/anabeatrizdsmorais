@@ -1,16 +1,28 @@
-### Hi there 👋
+<h2>👋 Olá! Sou Ana Beatriz.</h2>
 
-<!--
-**anabeatrizdsmorais/anabeatrizdsmorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Sou estudante de Desenvolvimento Front End, pretendo ser uma Full Stack e estou estudando para isso. 
+  Atualmente sou estagiária de TI na prefeitura da minha cidade, faço Técnico de Informática e 
+  já fui graduanda de Ciência da Computação, mas não terminei por alguns motivos.
+</p>
 
-Here are some ideas to get you started:
+<h4>💻 Habilidades:</h4>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+  <li>Bootstrap</li>
+  <li>SQL</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>📝 Em aprendizagem:</h4>
+<ul>
+  <li>NodeJS</li>
+  <li>ReactJs</li>
+</ul>
+
+<hr>
+
+<h4>Contato:</h4>
+
+<a href="https://www.linkedin.com/in/anabeatrizdsm/">Linkedin</a>
+<strong>anabeatrizdsmorais@gmail.com</strong>
