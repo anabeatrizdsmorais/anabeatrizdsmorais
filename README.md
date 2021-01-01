@@ -1,8 +1,9 @@
 <h2>👋 Olá! Sou Ana Beatriz.</h2>
 
-<p>Sou estudante de Desenvolvimento Front End, pretendo ser uma Full Stack e estou estudando para isso. 
+<p>Sou estudante de Desenvolvimento Front End, pretendo ser uma Desenvolvedora Full Stack e estou estudando para isso. 
   Atualmente sou estagiária de TI na prefeitura da minha cidade, faço Técnico de Informática e 
-  já fui graduanda de Ciência da Computação, mas não terminei por alguns motivos.
+  já fiz Ciência da Computação, mas não terminei por alguns motivos. 
+  Onde eu trabalho atualmente, participo de um projeto para área da saúde em que faço a parte do Front End e estou utilizando (aprendendo) também a linguagem PHP. 
 </p>
 
 <h4>💻 Habilidades:</h4>
@@ -12,6 +13,7 @@
   <li>JavaScript</li>
   <li>Bootstrap</li>
   <li>SQL</li>
+  <li>PHP (básico)</li>
 </ul>
 
 <h4>📝 Em aprendizagem:</h4>
@@ -25,4 +27,4 @@
 <h4>💡 Contato:</h4>
 
 <a href="https://www.linkedin.com/in/anabeatrizdsm/">🔗 Linkedin</a><br>
-<strong>📧 Email: anabeatrizdsmorais@gmail.com</strong>
+<strong>📧 anabeatrizdsmorais@gmail.com</strong>
