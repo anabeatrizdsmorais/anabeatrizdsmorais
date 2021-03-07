@@ -1,4 +1,4 @@
-<h2>👋 Olá! Sou Ana Beatriz.</h2>
+<h2>👋 Olá!</h2>
 
 <p>Sou Desenvolvedora Front-end, pretendo ser uma Desenvolvedora Full Stack e estou estudando para isso. 
   Atualmente trabalho como técnico de informática e participo de um projeto em que faço a parte do Front End e que utilizo as linguagens PHP (aprendendo a utilizar no projeto), JavaScript, HTML, CSS, Boostrap.
