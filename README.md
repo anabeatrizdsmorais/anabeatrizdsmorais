@@ -1,6 +1,6 @@
 <h2>👋👋👋</h2>
 
-<p>Desenvolvedora Front-end. Estudando Reactjs.
+<p>Desenvolvedora Front-end.
 </p>
 
 <h4>💻 Habilidades:</h4>
