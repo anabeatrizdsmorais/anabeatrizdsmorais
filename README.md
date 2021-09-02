@@ -7,14 +7,13 @@
 <h4>💻 Habilidades:</h4>
 <ul>
   <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-  <li>Bootstrap</li>
+  <li>CSS3(Bootstrap)</li>
+  <li>JavaScript(React[básico])</li>
   <li>SQL</li>
-  <li>PHP (básico)</li>
+  <li>PHP</li>
 </ul>
 
-<h4>📝 Em aprendizagem:</h4>
+<h4>📝 Em aprendizado:</h4>
 <ul>
   <li>NodeJS</li>
   <li>ReactJs</li>
