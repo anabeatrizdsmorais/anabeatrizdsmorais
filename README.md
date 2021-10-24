@@ -1,6 +1,6 @@
 <h2>👋👋👋</h2>
 
-<p>Desenvolvedora Front-end.
+<p>Desenvolvedora.
 </p>
 
 <h4>💻 Habilidades:</h4>
