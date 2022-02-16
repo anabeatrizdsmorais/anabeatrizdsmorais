@@ -12,12 +12,6 @@
   <li>PHP</li>
 </ul>
 
-<h4>📝 Em aprendizado:</h4>
-<ul>
-  <li>NodeJS</li>
-  <li>ReactJs</li>
-</ul>
-
 <hr>
 
 <h4>💡 Contato:</h4>
