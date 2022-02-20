@@ -6,7 +6,7 @@
 <ul>
   <li>JavaScript
     <ul><li>Jquery</li></ul>
-    <ul><li>React - básico</li></ul>
+    <ul><li>Reactjs - básico</li></ul>
   </li>
   <li>PHP
     <ul><li>MVC</li></ul>
