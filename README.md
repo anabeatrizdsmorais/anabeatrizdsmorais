@@ -1,15 +1,24 @@
 <h2>👋👋👋</h2>
 
-<p>Programadora de software.
-</p>
+<p>Programadora de software </p>
 
 <h4>💻 Habilidades:</h4>
 <ul>
-  <li>HTML5</li>
-  <li>CSS3(Bootstrap)</li>
-  <li>JavaScript(React[básico])</li>
+  <li>JavaScript
+    <ul><li>Jquery</li></ul>
+    <ul><li>React - básico</li></ul>
+  </li>
+  <li>PHP
+    <ul><li>MVC</li></ul>
+  </li>
   <li>MySQL</li>
-  <li>PHP</li>
+  <li>CSS
+    <ul><li>Bootstrap</li></ul>
+  </li>
+  <li>GIT - Versionamento de códigos</li>
+  <li>C#
+    <ul><li>Windows Form</li></ul>
+  </li>
 </ul>
 
 <hr>
