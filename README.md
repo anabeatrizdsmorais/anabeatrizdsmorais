@@ -7,9 +7,12 @@
   <li>JavaScript
     <ul><li>Jquery</li></ul>
     <ul><li>Reactjs - básico</li></ul>
+    <ul><li>AJAX</li></ul>
+    <ul><li>API</li></ul>
   </li>
   <li>PHP
     <ul><li>MVC</li></ul>
+    <ul><li>POO</li></ul>
   </li>
   <li>SQL
   <ul><li>DDL - Data Definition Language</li></ul>
@@ -19,10 +22,10 @@
   <li>CSS
     <ul><li>Bootstrap</li></ul>
   </li>
-  <li>GIT - Versionamento de códigos</li>
   <li>C#
     <ul><li>Windows Form</li></ul>
   </li>
+  <li>GIT - Versionamento de códigos</li>
 </ul>
 
 <hr>
@@ -31,4 +34,3 @@
 
 <a href="https://www.linkedin.com/in/anabeatrizdsmorais/" target="_blank">🔗 linkedin.com/in/anabeatrizdsmorais</a><br>
 
-<span>📧 anabeatrizdsmorais@gmail.com</span>
