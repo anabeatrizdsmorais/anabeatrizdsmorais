@@ -11,7 +11,7 @@
   <li>PHP
     <ul><li>MVC</li></ul>
   </li>
-  <li>MySQL
+  <li>SQL
   <ul><li>DDL - Data Definition Language</li></ul>
   <ul><li>DML - Data Manipulation Language</li></ul>
   <ul><li>DQL - Data Query Language</li></ul>
