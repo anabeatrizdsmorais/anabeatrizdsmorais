@@ -6,26 +6,36 @@
 <ul>
   <li>JavaScript
     <ul><li>Jquery</li></ul>
-    <ul><li>Reactjs - básico</li></ul>
+    <ul><li>Reactjs</li></ul>
     <ul><li>AJAX</li></ul>
     <ul><li>API</li></ul>
   </li>
   <li>PHP
     <ul><li>MVC</li></ul>
     <ul><li>POO</li></ul>
+    <ul><li>Webservices</li></ul>
   </li>
-  <li>SQL
+  <li>SQL - MySQL
   <ul><li>DDL - Data Definition Language</li></ul>
   <ul><li>DML - Data Manipulation Language</li></ul>
   <ul><li>DQL - Data Query Language</li></ul>
   </li>
-  <li>CSS
+  <li>HTML/CSS
     <ul><li>Bootstrap</li></ul>
+    <ul><li>(Outros frameworks de CSS)</li></ul>
+  </li>
+  <li>GIT - Versionamento de códigos
+  <ul><li>Bitbucket</li></ul>
+  <ul><li>Github</li></ul>
   </li>
   <li>C#
     <ul><li>Windows Form</li></ul>
   </li>
-  <li>GIT - Versionamento de códigos</li>
+  <li>Organização/Comunicação
+  <ul><li>Jira</li></ul>
+  <ul><li>Github</li></ul>
+  <ul><li>Bitbucket</li></ul>
+  </li>
 </ul>
 
 <hr>
