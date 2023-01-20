@@ -14,6 +14,7 @@
     <ul><li>MVC</li></ul>
     <ul><li>POO</li></ul>
     <ul><li>Webservices</li></ul>
+    <ul><li>Migrations Phinx</li></ul>
   </li>
   <li>SQL - MySQL
   <ul><li>DDL - Data Definition Language</li></ul>
