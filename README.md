@@ -1,6 +1,6 @@
 <h2>👋👋👋</h2>
 
-<p>Programadora de Sistemas </p>
+<h4>Desenvolvedor de Software</h4>
 
 <h4>💻 Habilidades:</h4>
 <ul>
