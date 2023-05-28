@@ -21,9 +21,11 @@
   <ul><li>DML - Data Manipulation Language</li></ul>
   <ul><li>DQL - Data Query Language</li></ul>
   </li>
-  <li>HTML/CSS
+  <li>Frameworks CSS (Pacotes de CSS)
     <ul><li>Bootstrap</li></ul>
-    <ul><li>(Outros frameworks de CSS)</li></ul>
+    <ul><li>Styled Components</li></ul>
+    <ul><li>Material UI</li></ul>
+    <ul><li>Font Awesome</li></ul>
   </li>
   <li>GIT - Versionamento de códigos
   <ul><li>Bitbucket</li></ul>
