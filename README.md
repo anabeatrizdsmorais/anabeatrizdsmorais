@@ -6,9 +6,9 @@
 <ul>
   <li>JavaScript
     <ul><li>Jquery</li></ul>
-    <ul><li>Reactjs</li></ul>
+    <ul><li>Reactjs (Componentes, Pacotes, Estados)</li></ul>
     <ul><li>AJAX</li></ul>
-    <ul><li>API</li></ul>
+    <ul><li>API (Axios, Fetch)</li></ul>
   </li>
   <li>PHP
     <ul><li>MVC</li></ul>
@@ -36,6 +36,7 @@
   <ul><li>Jira</li></ul>
   <ul><li>Github</li></ul>
   <ul><li>Bitbucket</li></ul>
+  <ul><li>Filezilla</li></ul>
   </li>
 </ul>
 
