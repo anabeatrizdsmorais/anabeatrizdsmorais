@@ -8,7 +8,7 @@
   <li>
     Experiência: PHP, Javascript, React, Jquery, consumo de API, JSON, CSS, Frameworks e Bibliotecas CSS, HTML, MySQL (análise, inserção, atualização, exclusão, backcup), GIT (Github e Bitbucket), Gerenciamento de Tarefas com JIRA, transferência de arquivos com Filezilla, MVC, POO.
   </li>
-  <li>Conhecimento: Typescript, MongoDB, Laravel. </li>
+  <li>Conhecimento: Typescript, MongoDB, Node, Laravel. </li>
 </ul>
 
 <hr>
