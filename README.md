@@ -24,13 +24,6 @@ Desenvolvedora de software e Professora de Front-end e Back-end
 
 ---
 
-## 📊 Estatísticas do Meu Perfil
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anabeatrizdsmorais&show_icons=true&theme=dracula&bg_color=000&border_color=444)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anabeatrizdsmorais&layout=compact&theme=dracula&bg_color=000&border_color=444)
-
----
-
 ## 📬 Contato
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/anabeatrizdsmorais/ 
