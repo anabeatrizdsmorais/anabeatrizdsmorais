@@ -11,8 +11,6 @@ Desenvolvedora de software e Professora de Front-end e Back-end
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
 ![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![NextJS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
